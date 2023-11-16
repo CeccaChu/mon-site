@@ -15,3 +15,5 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 - Projets à **impact environnemental positif**
 - Projets à **impact social positif**
 - Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+
+![Texte décrivant l'image](/images/Carla_café.jpg) 
